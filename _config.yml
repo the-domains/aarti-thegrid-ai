@@ -1,0 +1,28 @@
+name: aarti@thegrid.ai
+favicon: null
+layout_spectrum: 0.023119568824768066
+typography_spectrum: 0.8982127914205194
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.7077340681571513
+  lightness: 0.6758766984567046
+  saturation: 0.18134447233751416
+  rhythmicContrast: 0.6640985049307346
+purpose: []
